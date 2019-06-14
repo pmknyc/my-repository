@@ -1,1 +1,2 @@
-I'll make same folder in remote Github and push code.
+This practice repo includes a push_code.rb script
+  It runs a git push sequence to update the local repo in github.
